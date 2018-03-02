@@ -1,13 +1,13 @@
 # graphql_subscription
 Push Notification using GraphQL Subscription
 
-1. server setup
+# server setup
   * cd server 
   * npm i 
   * npm run start
   * the server will run on PORT:4000
 
-1. client setup
+# client setup
   * cd client
   * npm i 
   * npm start
